@@ -44,7 +44,7 @@
 
 ## Robotics
 
-* [Introduction to Robotics](robotics/intro2robotics.pdf)
+* [Introduction to Robotics](robotics/introduction2robotics.pdf)
 
 * [Path Planning](robotics/pathplanning.pdf)
 
